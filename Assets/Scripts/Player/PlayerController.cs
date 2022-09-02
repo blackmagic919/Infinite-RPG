@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    //Test 1
     public float walkSpeed = 150;
     public float runSpeed = 300;
     public float gravity = -12f;
